@@ -1,0 +1,10 @@
+name = (str("Samiur"))
+age = (int(24))
+city = (str("Bedford"))
+hobby = (str("Gaming"))
+
+print("Personal Information Card: ")
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
+print("Hobby:", hobby)
